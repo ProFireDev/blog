@@ -1,2 +1,2 @@
 # blog
-The title seems kind of self explanatory 
+The title seems kind of self explanitory 
