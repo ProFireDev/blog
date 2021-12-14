@@ -1,2 +1,9 @@
+# *
 User-agent: *
-Disallow:
+Allow: /
+
+# Host
+Host: https://next.jamify.org
+
+# Sitemaps
+Sitemap: https://next.jamify.org/sitemap.xml
